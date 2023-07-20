@@ -14,6 +14,14 @@
       "battle cry"
     ],
     "url": "https://open.spotify.com/track/2F9xBxKbx2M0pbgtSu8fLf",
-    "playCount": 5
+    "playCount": 6
+  },
+  {
+    "title": "song01",
+    "artists": [
+      "abc"
+    ],
+    "url": "https://open.spotify.com/track/2F9xBxKbx2M0pbgtSu8fLf",
+    "playCount": 0
   }
 ]
